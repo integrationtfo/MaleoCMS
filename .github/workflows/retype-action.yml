@@ -7,7 +7,7 @@ on:
 
 jobs:
   publish:
-    name: Publish to retype branch
+    name: Publish to main branch
 
     runs-on: ubuntu-latest
 
