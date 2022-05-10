@@ -1,5 +1,5 @@
 name: Maleo CMS
-on: push
+on:
   workflow_dispatch:
   push:
     branches:
