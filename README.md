@@ -98,3 +98,14 @@ En cliquant sur cette icone, vous pourrez uploader une nouvelle image. Veuillez 
 - Vous devez vous assurer que la nouvelle image a le meme format que l'image que vous voulez remplacer. Ex: Si l'image était au format **png**, la nouvelle image doit aussi etre au format **png**.
 - Une fois un élement modifié, il ne vous est pas possible de retourner a la fiche tel qu'elle était avant la modification. Faites donc attention avant de sauvegarder. 
 !!!
+
+
+## Document (PDF, Word, etc)
+Selon le projet sur lequel vous travaillez, vous devrez peut-être télécharger des documents tels que des fichiers PDF, Word.
+Pour le projet Maleo, vous utiliserez la collection Word Doc.
+Pour le Celso, ce sera sous Documents Celso.
+
+## Obtention des liens S3
+Pour obtenir les liens S3, dans la collection d'images, vous verrez 3 boutons "JPG, JPEG et PNG".
+Afin de savoir sur quel bouton cliquer, vous devrez survoler l'image et cela indiquera l'extension de l'image.
+Si l'extension est PNG, vous devrez cliquer sur le bouton PNG.
